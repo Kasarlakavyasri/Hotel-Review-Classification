@@ -6,6 +6,7 @@
 * Based on observations from these files, we aim to construct and train a model for probability, ultimately predicting the legitimacy of a given statement.
 
 ***Decision Design and Approach***
+
 **Technique Used**
 Bayes Net Classifier
 
